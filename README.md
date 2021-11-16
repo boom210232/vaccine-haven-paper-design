@@ -11,7 +11,10 @@ Main concept of this design are **flexibility** , **easy access** and **minimal*
 ### What's new for 1.0
 - Initation for the main UX with hard interface for users.
 - Focus on sprint 1 in project [Vaccine Haven](https://github.com/3-00AM/vaccine-haven)
-- Addition page for main page, registeration and show details.                       
+- Addition page for main page, registeration and show details.         
+
+### What's new for 1.0a          
+- Add detail about deaft for display info.
 
 ### Team's review.
 - This version still look tough and too complex for real web-application.
@@ -22,14 +25,15 @@ Main concept of this design are **flexibility** , **easy access** and **minimal*
 
 
 ## Revision 1.1                  
-### What's new for 1.1     
 ![Vac-04_rev1 1 – Figma - Google Chrome 11_17_2021 3_53_23 AM](https://user-images.githubusercontent.com/73125941/142064253-b811ce3f-5fc3-40f2-92a6-8ab36851ebd1.png)               <div align="center"> Demo view of rev.1.1</div>                                               
 
-[Link to design page](https://www.figma.com/file/3K08YhVLDhfrlyWDWdgoMm/Vac-04_rev1.1)
+[Link to design page](https://www.figma.com/file/3K08YhVLDhfrlyWDWdgoMm/Vac-04_rev1.1)       
+### What's new for 1.1    
 - All new redesign for UX by combine knowledge with UI that provide from Cirrus-UI
 - Addition detail for reservation, walk-in, contacts and vaccine site and check info
 - Improvement in main page UI/UX.        
-- Focus as a mainly UX style for every UX in this project.    
+- Focus as a mainly UX style for every UX in this project.      
+- Registeration still use the concept of Rev.1.0a but upgrade UI.          
 
 ### Team's review.          
 - This version can use as reference for the projects.

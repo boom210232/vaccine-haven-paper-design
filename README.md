@@ -19,7 +19,8 @@ Main concept of this design are **flexibility** , **easy access** and **minimal*
 
 
 ## Revision 1.1                  
-### What's new for 1.1           
+### What's new for 1.1     
+![Vac-04_rev1 1 – Figma - Google Chrome 11_17_2021 3_53_23 AM](https://user-images.githubusercontent.com/73125941/142064253-b811ce3f-5fc3-40f2-92a6-8ab36851ebd1.png)
 [Link to design page](https://www.figma.com/file/3K08YhVLDhfrlyWDWdgoMm/Vac-04_rev1.1)
 - All new redesign for UX by combine knowledge with UI that provide from Cirrus-UI
 - Addition detail for reservation, walk-in, contacts and vaccine site and check info

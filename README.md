@@ -4,6 +4,8 @@ Main concept of this design are **flexibility** , **easy access** and **minimal*
 
 
 ## Revision 1.0 and 1.0a
+![Vac-04_rev1 1 – Figma - Google Chrome 11_17_2021 3_54_05 AM](https://user-images.githubusercontent.com/73125941/142064367-171c2358-d8c1-4d5f-a5ac-7c2dca069e45.png)           
+<div align="center"> Demo of rev.1.0</div>
 [Link to design page](https://www.figma.com/file/DlSmDsfbqwf7iZ7DeSwaLe/Vac-04_rev1.0a?node-id=0%3A1)
 ### What's new for 1.0
 - Initation for the main UX with hard interface for users.

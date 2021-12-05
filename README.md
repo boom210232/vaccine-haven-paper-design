@@ -44,4 +44,4 @@ Main concept of this design are **flexibility** , **easy access** and **minimal*
 
 ## References
 - [3:00 A.M. vaccine-haven](https://github.com/3-00AM/vaccine-haven)
-- [Cirrus-UI](https://cirrus-ui.netlify.app/)
+- [Cirrus-UI](https://cirrus-ui.netlify.app/)        
